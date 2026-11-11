@@ -9,3 +9,7 @@ Hi, I'm Riyaz, an engineering student learning GitHub and version control. I am 
 ## My Interest
 
 - Exploring new technologies and learning software development
+
+## My Goal
+
+- To improve my programming skills and build real-world projects using GitHub.
