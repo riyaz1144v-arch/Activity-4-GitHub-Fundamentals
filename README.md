@@ -5,3 +5,7 @@ Hi, I'm Riyaz, an engineering student learning GitHub and version control. I am 
 ## My Skill
 
 - Problem-solving and logical thinking
+
+## My Interest
+
+- Exploring new technologies and learning software development
